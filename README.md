@@ -10,4 +10,4 @@ This version only contains the game MineSeeker but with the timer removed to red
 
 
 ## Contributor:
-Thanks for Amy Lechner for the inspiration to this project!
+Thanks for Amy lechner's inspiration and support for this project, this project will be remembered in heart.
